@@ -19,6 +19,8 @@ svgAll =
   svgBegin 500 500 ++ 
   (svgCircle 60 60 50 "rgb(10, 145, 32, 0.4)") ++ 
   (svgCircle 90 90 50 "rgb(105, 14, 30, 0.4)") ++ 
+  --(svgCircle 190 290 350 "rgb(12, 14, 30, 0.4)") ++ 
+  --(svgCircle 190 400 350 "rgb(135, 14, 42, 0.4)") ++ 
   svgEnd
 
 main :: IO ()
